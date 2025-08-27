@@ -1,0 +1,34 @@
+# github.com/google/uuid v1.6.0
+## explicit
+github.com/google/uuid
+# github.com/gorilla/websocket v1.5.3
+## explicit; go 1.12
+github.com/gorilla/websocket
+# github.com/json-iterator/go v1.1.12
+## explicit; go 1.12
+github.com/json-iterator/go
+# github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd
+## explicit
+github.com/modern-go/concurrent
+# github.com/modern-go/reflect2 v1.0.2
+## explicit; go 1.12
+github.com/modern-go/reflect2
+# github.com/taosdata/driver-go/v3 v3.7.0
+## explicit; go 1.14
+github.com/taosdata/driver-go/v3/af
+github.com/taosdata/driver-go/v3/af/async
+github.com/taosdata/driver-go/v3/af/insertstmt
+github.com/taosdata/driver-go/v3/af/locker
+github.com/taosdata/driver-go/v3/common
+github.com/taosdata/driver-go/v3/common/param
+github.com/taosdata/driver-go/v3/common/parser
+github.com/taosdata/driver-go/v3/common/pointer
+github.com/taosdata/driver-go/v3/common/stmt
+github.com/taosdata/driver-go/v3/common/tmq
+github.com/taosdata/driver-go/v3/errors
+github.com/taosdata/driver-go/v3/taosSql
+github.com/taosdata/driver-go/v3/types
+github.com/taosdata/driver-go/v3/wrapper
+github.com/taosdata/driver-go/v3/wrapper/cgo
+github.com/taosdata/driver-go/v3/wrapper/handler
+github.com/taosdata/driver-go/v3/wrapper/thread

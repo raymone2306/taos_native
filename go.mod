@@ -1,6 +1,6 @@
 module github.com/raymone2306/taos_native
 
-go 1.24.4
+go 1.23.3
 
 require github.com/taosdata/driver-go/v3 v3.7.0
 
